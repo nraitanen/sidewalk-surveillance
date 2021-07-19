@@ -1,2 +1,2 @@
 # sidewalk-surveillance
-Python project to leverage Raspberry Pi camera module (to be acquired) in monitoring nearby sidewalk from balcony to quantify the number of illegal actions such as biking on the sidewalk.
+Python project to leverage Raspberry Pi camera module (to be acquired) in monitoring nearby sidewalk from balcony to quantify illegal actions such as biking on the sidewalk. This would, of course, consist of object detection and classification, determining a suitable region of interest regardless of the camera setup, determining whether the object actually proceeds by the sidewalk or the road, and so on.
